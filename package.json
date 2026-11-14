@@ -1,0 +1,12 @@
+{
+  "name": "netlify-trade-manager",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.9"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
